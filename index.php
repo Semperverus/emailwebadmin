@@ -9,7 +9,7 @@
     <?php  ?>
   </div>
   <div id="footer">
-    Email Web Administration, &copy;<?php
+    Email Web Administration, &copy;<?php ?>
   </div>
 </body>
 </html>
